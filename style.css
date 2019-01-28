@@ -78,6 +78,15 @@ header .motto {
     color: #55acee;
 }
 
+.youtube-icon {
+    color: #ff0000;
+}
+
+.disabled,
+.disabled * {
+    color: #bbb !important;
+}
+
 @media (max-width: 575.98px) {
     body {
         min-height: initial;
